@@ -1,4 +1,4 @@
-# 📱 QR Code Generator
+# QR Code Generator
 
 > Premium, customizable QR code generator built with JavaScript and QRious.
 
@@ -10,7 +10,6 @@ Generate QR codes instantly with full customization options:
 - Add a **center logo or image**  
 - Download QR as **PNG**  
 - Share directly on **WhatsApp** or **Discord**  
-- Modern, responsive, and sleek interface
 
 ---
 
@@ -27,8 +26,7 @@ Generate QR codes instantly with full customization options:
 To provide a **fast, easy, and visually appealing** way to create QR codes for:
 - Websites & landing pages  
 - Social media profiles  
-- Business cards  
-- Event invitations  
+- Business cards   
 - Any link you want to share quickly  
 
 I wanted a tool that’s **both functional and looks premium**, perfect for personal or professional use.
