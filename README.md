@@ -15,8 +15,7 @@ Generate QR codes instantly with full customization options:
 
 ## 🛠 How I built it
 - **HTML, CSS & JavaScript** for the frontend  
-- **QRious** library for QR code generation  
-- **Bootstrap 5** for responsive layout  
+- **QRious** library for QR code generation    
 - Modern **SaaS-style UI** with glassmorphism and smooth interactions  
 - Clipboard API & Web Share API for sharing features
 
