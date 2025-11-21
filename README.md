@@ -35,6 +35,15 @@ I wanted a tool that’s **both functional and looks premium**, perfect for pers
 
 ---
 
+Made with ❤️ by M. Huzaifa
+
+---
+
+If you want, I can also **add a super eye-catching “live demo” badge, GIF screenshot, and tech stack badges** to make your GitHub README **look premium SaaS style** like professional repositories.  
+
+Do you want me to do that?
+
+
 ## 📦 Usage
 1. Clone or download this repository:
    ```bash
